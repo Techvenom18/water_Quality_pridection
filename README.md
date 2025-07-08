@@ -34,6 +34,8 @@ Uses the **Water Quality** dataset containing:
 3. Decision Tree
 4. Support Vector Machine
 
+## After testing and source code implemtation-> run app.interface code and here use this command in terminal "Streamlit run app.py" after sucessful execution.
+
 ## How to Use
 1. Clone the repository:
    ```bash
